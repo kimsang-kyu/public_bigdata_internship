@@ -1,2 +1,0 @@
-hello world Python!!!
-welcome to Python world!!!New line append!!!
